@@ -1,3 +1,4 @@
+# Changed locally.
 
 user_input = input("Are you a cigarette addict older than 75 years old? [yes/no]")
 age = user_input == "yes"
