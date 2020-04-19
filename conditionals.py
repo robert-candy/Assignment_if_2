@@ -10,7 +10,6 @@ immune = (user_input == "yes")
 
 risk = age and chronic and immune
 
-
 if risk:
     print("You are in risky group")
 else:
